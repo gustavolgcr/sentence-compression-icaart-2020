@@ -347,4 +347,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Glove file
+glove.6B.100d.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,macos,linux,windows
